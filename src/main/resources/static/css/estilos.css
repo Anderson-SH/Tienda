@@ -1,0 +1,29 @@
+
+#tituloPrincipal{
+    color: blueviolet;
+    font-size: 50px;
+}
+.parrofoNegrita{
+    font-weight: bold;
+    color: activeborder;
+}
+
+.parrafoEspecial{
+    font-family: Comic Sans MS;
+}
+
+.prioridad{
+    color: red;
+}
+
+.prioridad1{
+    color: red;
+}
+
+.prioridad2{
+    color: purple;
+}
+
+p{
+    word-spacing: 8px;
+}
