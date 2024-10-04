@@ -27,3 +27,40 @@
 p{
     word-spacing: 8px;
 }
+.ejemploCajas{
+    border: 2px solid black;
+    /* 1 parámetro = aplica los 4 lados*/ 
+    /*padding-top: 10px;
+     /* 2 parámetros = top/bottom - left/right*/
+    /*padding: 20px 10px;/
+    /* 3 Parámetros - top left/right bottom*/ 
+    /* padding: 20px 10px 15px;*/
+    /* 4 Parámetros - top - right bottom - left*/
+    /*padding: 10px 20px 15px 30px;
+    margin: 10px 20px 15px 30px;*/
+    width: 50%;
+    margin: 0 auto;
+}
+
+a:link{
+    color: aqua;
+    background-color: aquamarine;
+    border: 2px solid aquamarine;
+    margin: 5px;
+    border-radius: 25px;
+}
+a:visited{
+    color: black;
+    background-color: green;
+}
+
+a:hover{
+    color: wheat;
+    background-color: green;
+    transition: 1.5s;
+}
+
+a:active{
+    color: white;
+    background-color: blueviolet;
+}
